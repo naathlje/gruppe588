@@ -1,7 +1,7 @@
 import H1 from "./H1"
 export default function mainContent({}){
 return(
-    <main id="mainContent">
+    <main>
 
     <header>
     <H1/>
