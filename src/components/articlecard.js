@@ -1,4 +1,4 @@
-export default function articleCard (title, list, content) {
+export default function ArticleCard (title, list, content) {
 
     return(
 
