@@ -7,7 +7,6 @@ return(
     <H1/>
     </header>
     <article>
-        
 
     
     </article>
