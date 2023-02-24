@@ -4,7 +4,7 @@ export default function articleCard (title, list, content) {
 
     <article className="article-card">
         <h2>{title}</h2>
-        <li a href="">{list}</li>
+        <li><a href="">{list}</a></li>
         <p>{content}</p>
 
         
