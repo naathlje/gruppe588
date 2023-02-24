@@ -1,5 +1,5 @@
 import H1 from "./H1"
-export default function mainContent({}){
+export default function Main({}){
 return(
     <main id="mainContent">
 
